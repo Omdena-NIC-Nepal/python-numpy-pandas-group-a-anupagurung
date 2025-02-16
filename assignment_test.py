@@ -41,3 +41,4 @@ class TestAssignmentNotebook(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(argv=[''], exit=False)
+
